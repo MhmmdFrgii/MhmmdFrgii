@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=300&section=header&text=MhmmdFrgii&fontAlignY=40&fontSize=90&fontColor=d3d3d3&animation=fadeIn&desc=Frontend&descSize=30&descAlignY=60)
 <h1 align="center">Hi 👋, I'm Muhammad Firgi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
