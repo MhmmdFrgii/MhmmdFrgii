@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmdfrgii&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmdfrgii" /> </p>
 
+- 📫 How to reach me <a href="mailto:muhammadfirgi22@gmail.com">**gmail**</a>
+
+- ⚡ Fun fact **I can RAWRRRR**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/muhammad firgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad firgi" height="30" width="40" /></a>
