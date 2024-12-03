@@ -5,20 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmdfrgii&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmdfrgii" /> </p>
 
-- 🔭 I’m currently working on [Classroom Management System](https://github.com/MhmmdFrgii/classroom-management-system.git)
-
-- 🌱 I’m currently learning **Laravel, Tailwindcss**
-
-- 👯 I’m looking to collaborate on [Employee Management System](https://github.com/MhmmdFrgii/employee-management-system.git)
-
-- 👨‍💻 All of my projects are available at [https://mhmmdfrgii.vercel.app/](https://mhmmdfrgii.vercel.app/)
-
-- 💬 Ask me about **html, css, and tailwindcss**
-
-- 📫 How to reach me **muhammadfirgi22@gmail.com**
-
-- ⚡ Fun fact **I can RAWRRRR**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/muhammad firgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad firgi" height="30" width="40" /></a>
